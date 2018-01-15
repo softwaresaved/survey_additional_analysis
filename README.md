@@ -5,7 +5,7 @@ While the results in the original repository give an overview of the dataset, th
 
 ## Analysis
 
-* [Interdisciplinary_aspects_of_Research_Software_Engineers_in_Uk.ipynb](Interdisciplinary%20aspects%20of%20Research%20Software Engineers%20in%20Uk.ipynb): Analysis of the interdisciplinary aspect of RSE and the flow between disciplines
+* [interdisciplinary_aspects_of_research_software_engineers_in_uk.ipynb](interdisciplinary_aspects_of_research_software_engineers_in_uk.ipynb): Analysis of the interdisciplinary aspect of RSE and the flow between disciplines
 * [dropping_participants_process.ipynb](dropping_participants_process.ipynb): Detail the reasons why participants are dropped from the raw data to create a cleaned dataset. NB: It is impossible to rerun this notebook as the raw data are not made publicly availabe
 
 ## Files
