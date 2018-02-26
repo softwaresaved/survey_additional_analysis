@@ -1,6 +1,6 @@
 # DATA TO REMOVE
 **/raw_data.csv
-**/cleaned_data.csv
+**/cleaned*.csv
 
 
 # Byte-compiled / optimized / DLL files
