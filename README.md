@@ -37,6 +37,9 @@ It is possible to run the different notebook or use different dataset if the str
 
 `jupyter nbextension install ipykernel_launcher --user`
 
+5. Activate the extension for the jupyter widget
+`jupyter nbextension enable --py --sys-prefix widgetsnbextension  # can be skipped for notebook version 5.3 and above`
+
 5. Run jupyter notebook
 
 `jupyter notebook`
